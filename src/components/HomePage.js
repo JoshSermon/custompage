@@ -1,8 +1,9 @@
 import React from "react";
-import 'bootstrap/dist/css/bootstrap.min.css';
+import '../App.css';
+ 
+
 
 const HomePage = () => {
-    return (
         <div>
         <ul>
            <li>
@@ -16,7 +17,13 @@ const HomePage = () => {
            </li>
         </ul>
     </div>
-    )
-}
+
+return (
+   <>
+     <div className="nav-home"></div>
+  </>
+ );
+
+};
 
 export default HomePage
