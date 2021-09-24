@@ -1,26 +1,16 @@
 import React from "react";
 import '../App.css';
+import { Container, Row, Col } from "react-bootstrap";
  
 
 
 const HomePage = () => {
-        <div>
-        <ul>
-           <li>
-              <>Home</>
-           </li>
-           <li>
-              <>Users</>
-           </li>
-           <li>
-              <>Contact</>
-           </li>
-        </ul>
-    </div>
-
+<div>
+   
+</div>
 return (
    <>
-     <div className="nav-home"></div>
+     
   </>
  );
 

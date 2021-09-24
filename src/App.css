@@ -1,5 +1,8 @@
-.nav-home {
+.nav {
   display: flex;
+  justify-content: space-between;
   align-items: center;
-  align-content: space-between;
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
 }
