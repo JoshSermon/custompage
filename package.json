@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/preset-env": "^7.15.6",
     "bootstrap": "^5.1.0",
     "cra-template": "1.1.2",
     "react": "^17.0.2",
