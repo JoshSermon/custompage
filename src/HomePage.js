@@ -1,13 +1,13 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import '../App.css';
 import { Container, Row, Col } from "react-bootstrap";
+
  
 
 
 const HomePage = () => {
-<div>
-   
-</div>
+const [Home, setHome] = useState;
+
 return (
    <>
      
